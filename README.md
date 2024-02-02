@@ -14,5 +14,5 @@ Detects Thermocouple Shorts to GND or VCC
 Detects Open Thermocouple
 Allows readings as high as +1800°C and as low as -270°C
 
-Datasheet:   https://drive.google.com/open?id=1ENuPiNIxRTfHbRy3v8wn8jB_bo-Td1Fc&usp=drive_fs
-User Guide:  https://drive.google.com/open?id=1hBzyrPDrW1Er4kQuEuUPaHd-NInpQMIo&usp=drive_fs
+Datasheet:   https://norvi.lk/docs/norvi-ex-tex01-datasheet/
+User Guide:  https://norvi.lk/docs/norvi-ex-tex01-user-guide/
