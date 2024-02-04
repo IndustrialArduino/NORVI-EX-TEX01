@@ -1,4 +1,4 @@
- TE/*Example Program for NORVI Thermocuple Expansion Module
+/*Example Program for NORVI Thermocuple Expansion Module
  * SC18IS602B.cpp of  SC18IS602B Library needs editing
  * I2C address = 0x2F;
  * Wire.begin() to Wire.begin(16,17);
